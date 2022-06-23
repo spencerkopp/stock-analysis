@@ -1,7 +1,7 @@
 # Stock-Analysis
 The purpose of this project was to refactor VBA code to run more efficiently. Although the original code worked as it should, it took about a second to run and was not as efficient as it could have been.
 ## Overview of Project
-The data most relevant to this project includes 12 stocks' ticker values, total daily volumes, and yearly return, which can be calculated with the opening and closing prices. 
+The data most relevant to this project includes 12 stocks' ticker values, total daily volumes, and yearly return, which can be calculated with the opening and closing prices.
 ### Results of Stock Performance 2017 and 2018
 The refactored code produced quicker run times for both the 2017 and 2018 years. The time it took for the code to run for the 2017 year can be found here:![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png) 
 The time it took for the code to run for the 2018 year can be found here: ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
