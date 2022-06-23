@@ -1,6 +1,6 @@
 # Stock-Analysis
 
-The purpose of this project was to refactor VBA code to run more efficiently. Although the original code worked as it should, it took about a second to run and was not as efficient as it could have been.
+The purpose of this project was to refactor VBA code to run more efficiently. Although the original code worked as it should, it took about a second to run and was not as efficient as it could have been. Please note the unzipped .xlsm is the most recent update of this project.
 
 ## Overview of Project
 
