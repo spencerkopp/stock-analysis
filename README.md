@@ -6,7 +6,7 @@ The data most relevant to this project includes 12 stocks' ticker values, total 
 The refactored code produced quicker run times for both the 2017 and 2018 years. The time it took for the code to run for the 2017 year can be found here:
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 The time it took for the code to run for the 2018 year can be found here: 
-![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 ## Cons of Refactoring Code
 Refactoring code can be a time consuming process. In refactoring this code, I ran into many new bugs which were not apparent in the previous working code.
 ### Pros of Refactoring Code
